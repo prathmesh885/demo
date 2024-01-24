@@ -1,0 +1,20 @@
+/* Css Reset  */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: red;
+}
+
+/* .col-12{
+    margin-right: 50px !important;
+    }
+    
+    table, tr, th, td {
+        border: 2px solid red;
+        margin: 200px;
+    } */
